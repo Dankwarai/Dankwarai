@@ -1,13 +1,13 @@
 # Hi, I'm Abubakar Muhammad Haruna 👋
 
-**Backend Developer** based in Kano, Nigeria 🇳🇬  
+**Frontend Developer** based in Kano, Nigeria 🇳🇬  
 Working at **Blue Horizon Technology** — building real-world web applications that solve real problems.
 
 ---
 
 ## 🔧 What I Build
 
-I focus on backend systems and full-stack web applications using PHP, Laravel, TypeScript, and JavaScript. My projects range from school management platforms to QR-based restaurant ordering systems and real estate marketplaces.
+I focus on frontend and full-stack web applications using JavaScript, TypeScript, React, and PHP. My projects range from school management platforms to QR-based restaurant ordering systems with Paystack payments and a property marketplace for Nigeria.
 
 ---
 
@@ -57,4 +57,4 @@ I focus on backend systems and full-stack web applications using PHP, Laravel, T
 - 🏢 **Company:** Blue Horizon Technology
 - 📍 **Location:** Kano, Nigeria
 
-> Open to remote backend and full-stack opportunities.
+> Open to remote frontend and full-stack opportunities.
